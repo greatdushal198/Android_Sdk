@@ -39,8 +39,8 @@ afterEvaluate {
     publishing {
         publications {
             myPublicationName(MavenPublication){
-                groupId = 'com.github.greatdushal198'
-                artifactId = 'testing'
+                groupId = 'com.wigzo.sdk'
+                artifactId = 'androidsdk'
                 version = '1.0.0'
             }
         }
